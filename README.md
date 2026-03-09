@@ -2,6 +2,7 @@
 
 **Project Overview:** This document serves as a professional incident post-mortem report, produced as part of the NCFE Level 3 Cybersecurity Practices curriculum to demonstrate incident response analysis.
 
+**[Cick here for full PDF Report](https://github.com/ssaunders91/incident-post-mortem-report/blob/main/Incident%20Post-Mortem%20Report.pdf)**
 ---
 
 ## 📝 Executive Summary
@@ -91,4 +92,4 @@ In March 2024, the family-owned construction company **Taylor & Sons Constructio
 
 
 This incident serves as a stark reminder that cybersecurity is a fundamental concern that must be embedded across all levels of an organisation.
-**FOR FULL BREAKDOWN PLEASE READ PDF**
+
