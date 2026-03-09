@@ -91,7 +91,4 @@ In March 2024, the family-owned construction company **Taylor & Sons Constructio
 
 
 This incident serves as a stark reminder that cybersecurity is a fundamental concern that must be embedded across all levels of an organisation.
-
----
-
-**Would you like me to help you format a Profile README to showcase this report and your other projects on your main GitHub page?** 🚀
+**FOR FULL BREAKDOWN PLEASE READ PDF**
